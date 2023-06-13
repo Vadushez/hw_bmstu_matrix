@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include "bmstu_matrix.h"
+#include "matrix.h"
 
 TEST(Constructor, Default) {
     bmstu::matrix<int> my_matrix;
